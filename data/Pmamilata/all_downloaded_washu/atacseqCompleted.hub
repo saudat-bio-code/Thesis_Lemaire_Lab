@@ -1,0 +1,540 @@
+[
+
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm06_40-120Sort_norm.bw",
+    name:"ATAC 16 A WT L1",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["16 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm07_40-120Sort_norm.bw",
+    name:"ATAC 16 B WT L1",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+   metadata:["16 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_TGCTGGGTSort_norm.bw",
+    name:"ATAC 16 B GSK3 inhib expected, normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+   metadata:["16 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_AAGAGGCASort.bw",
+    name:"ATAC 32 A WT expected no normaization",
+    mode:"show",
+    colorpositive:"#C60800",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["32 WT","no Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm11_40-120Sort_norm.bw",
+    name:"ATAC 32 B WT L1",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["32 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_CGTACTAGSort.bw",
+    name:"ATAC 32 B UO126 expected, normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["32 UO126","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_GTGTGGTGSort_norm.bw",
+    name:"ATAC 32 A GSK3 expected, normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["32 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_TGGGTTTCSort_norm.bw",
+    name:"ATAC 32 D GSK3 expected, normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["32 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm18_40-120Sort_norm.bw",
+    name:"ATAC 64 A WT",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm13_40-120Sort_norm.bw",
+    name:"ATAC 64 B WT",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_AGGCAGAASort_norm.bw",
+    name:"ATAC 64 A UO126 expected , normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 UO126","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm03_40-120Sort_norm.bw",
+    name:"ATAC 64 C UO126, normalization",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 UO126","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm12_40-120Sort_norm.bw",
+    name:"ATAC 64 A GSK3 , normalization",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm19_40-120Sort_norm.bw",
+    name:"ATAC 64 B GSK3, normalization",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm08_40-120Sort_norm.bw",
+    name:"ATAC 64 A FGF, normalization",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["64 FGF","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm02Sort_norm.bw",
+    name:"ATAC 112 A WT",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm09_40-120Sort_norm.bw",
+    name:"ATAC 112 B WT",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm10_40-120Sort_norm.bw",
+    name:"ATAC 112 A FGF",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 FGF","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm20_40-120Sort_norm.bw",
+    name:"ATAC 112 B FGF",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 FGF","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm15_40-120Sort_norm.bw",
+    name:"ATAC 112 A GSK3",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm16_40-120Sort_norm.bw",
+    name:"ATAC 112 B GSK3",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 GSK3","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm05Sort_norm.bw",
+    name:"ATAC 112 A U0126",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 U0126","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm04-Ci01Sort_norm.bw",
+    name:"ATAC 112 B U0126",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["112 U0126","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm01_40-120Sort_norm.bw",
+    name:"ATAC Late Gastrula",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["Late Gastrula WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_GGACTCCTSort_norm.bw",
+    name:"ATAC Late Gastrula B expected, normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["Late Gastrula WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm14_40-120Sort_norm.bw",
+    name:"ATAC Mid Neurula WT",
+    mode:"show",
+    colorpositive:"#ffa31a",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["Mid Neurula WT","Normalized alignment"]
+},
+{
+    type:"bigwig",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/alignmentPm_TAGGCATGSort_norm.bw",
+    name:"ATAC Mid Neurula B WT, expected normalization",
+    mode:"show",
+    colorpositive:"#D58490",
+    height:50,
+	fixedscale:{min:0,max:20},
+    metadata:["Mid Neurula WT","Normalized alignment"]
+},
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm12Pm13_WT_64_peaks2.gz",
+    name:"Peaks - 64 merged WT",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["64 WT","Peaks"]
+},
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm02Pm09_WT_112_peaks2.gz",
+    name:"Peaks - 112 merged WT",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["112 WT","Peaks"]
+},
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/GSK3_llocal_q001Sort.gz",
+    name:"Peaks - GSK3",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["112 GSK3","Peaks"]
+},
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm01-LateGastrula_peaks.gz",
+    name:"Peaks - Late gastrula",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["Late Gastrula WT","Peaks"]
+},
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm14-MidNeurula_peaks.gz",
+    name:"Peaks - Mid neurula",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["Mid Neurula WT","Peaks"]
+},
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_AAGAGGCA_peaks.gz",
+    name:"Peaks - AAGAGGCA few reads neither Phmamm nor Cirobu but expexted Phmamm Run3 ",
+    mode:"show",
+    color:"#C60800",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_ACCACTGT_peaks.gz",
+    name:"Peaks - ACCACTGT expected 64B UO126 Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_AGGCAGAA_peaks.gz",
+    name:"Peaks - AGGCAGAA expected Phmamm but seems to be Cirobu  Run3 ",
+    mode:"show",
+    color:"#C60800",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CAGAGAGG_peaks.gz",
+    name:"Peaks - CAGAGAGG expected Cirobu (112A UO126) and Phmamm (32B FGF) but few reads Run3 ",
+    mode:"show",
+    color:"#C60800",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CCGTTTGT_peaks.gz",
+    name:"Peaks - CCGTTTGT expected Cirobu (16AWT) and Phmamm(16A GSK3 inhib) few reads for Phmamm Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CGAGGCTG_peaks.gz",
+    name:"Peaks - CGAGGCTG expected Cirobu (112B GSK3 inhib) and Phmamm(64B FGF) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CGTACTAG_peaks.gz",
+    name:"Peaks - CGTACTAG expected Cirobu (LG B WT) and Phmamm (32B U0126) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GAGGGGTT_peaks.gz",
+    name:"Peaks - Peaks - GAGGGGTT !!!! Run3",
+    mode:"show",
+    color:"#C60800",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GGACTCCT_peaks.gz",
+    name:"Peaks - GGACTCCT expected Cirobu (MN A WT) and Phmamm (LG B WT) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GTAGAGGA_peaks.gz",
+    name:"Peaks - GTAGAGGA expected Cirobu (32A WT) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GTCGTGAT_peaks.gz",
+    name:"Peaks - GTCGTGAT expected Cirobu (32B WT) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GTGTGGTG_peaks.gz",
+    name:"Peaks - GTGTGGTG expected Cirobu (64B FGF) and Phmamm (32A GSK3 inhib) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TAAGGCGA_peaks.gz",
+    name:"Peaks - TAAGGCGA expected Cirobu (LG A WT) Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TAGGCATG_peaks.gz",
+    name:"Peaks - TAGGCATG expected Phmamm (MN B WT) but few reads on Cirobu/Phmamm -  Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TGCTGGGT_peaks.gz",
+    name:"Peaks - TGCTGGGT expected Phmamm (16B GSK3 inhib) but reads on Phmamm & Cirobu-  Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TGGATCTG_peaks.gz",
+    name:"Peaks - TGGATCTG expected to be Phmamm (32A WT) but reads on Cirobu Run3 ",
+    mode:"show",
+    color:"#C60800",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TGGGTTTC_peaks.gz",
+    name:"Peaks - TGGGTTTC expected to be Cirobu (32D GSK3 inhib) & Phmamm Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+{
+    type:"hammock",
+    url:"https://www.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TTGACCCT_peaks.gz",
+    name:"Peaks - Ci_TTGACCCT !!!!!! Run3 ",
+    mode:"show",
+    color:"#08298A",
+    height:50,
+    fixedscale:{min:0,max:20},
+    metadata:["RUN3","Peaks"]
+},
+
+
+
+
+{
+"type":"metadata",
+   "vocabulary":{
+     "SampleStadeATACSeq":["RUN3","16 WT","16 GSK3","32 WT","32 GSK3","32 UO126","64 WT","64 GSK3","64 FGF","64 UO126","112 WT","112 GSK3","112 FGF","112 U0126","Late Gastrula WT","Mid Neurula WT"],
+     "AlignmentATACSeq":["no Normalized alignment","Normalized alignment","Peaks"]
+     },
+   "show":["SampleStadeATACSeq","AlignmentATACSeq"]
+},
+
+{
+   "type":"native_track",
+   "list":[
+      {"name":"gene","mode":"full"}
+   ]
+}
+
+]

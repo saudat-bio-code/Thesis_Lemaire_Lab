@@ -1,0 +1,23 @@
+
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm01-LateGastrula_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm14-MidNeurula_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_AAGAGGCA_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_ACCACTGT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_AGGCAGAA_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CAGAGAGG_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CCGTTTGT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CGAGGCTG_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_CGTACTAG_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GAGGGGTT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GGACTCCT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GTAGAGGA_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GTCGTGAT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_GTGTGGTG_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TAAGGCGA_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TAGGCATG_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TGCTGGGT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TGGATCTG_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TGGGTTTC_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm_TTGACCCT_peaks.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm02Pm09_WT_112_peaks2.gz
+wget http://anis-server.aniseed.cnrs.fr/hubwashu/phmamm/Epigenomic/privATACSeq_am0217/Pm12Pm13_WT_64_peaks2.gz
