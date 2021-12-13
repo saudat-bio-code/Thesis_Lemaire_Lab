@@ -1,0 +1,18 @@
+Package: BSgenome.Crobusta.HT.KY
+Title: Ciona robusta HT_KY
+Description: A BSgenome package for the Ciona robusta genome
+Version: 0.1
+Author: Yutaka Satou, Ryohei Nakamura, Deli Yu, Reiko Yoshida, Mayuko Hamada, Manabu Fujiye, Kanako Hisada, Hiroyuki Takeda and Noriyuki Satoh
+Maintainer: Keira Wiechecki <kaw504@nyu.edu>
+Depends: R (>= 3.5.0), BSgenome (>= 1.60.0)
+Imports: BSgenome
+Suggests:
+License: GPL-3
+organism: Ciona robusta
+common_name: Vase tunicate
+genome: GCF_000224155.1
+provider: NCBI
+release_date: 2019
+source_url: https://www.ncbi.nlm.nih.gov/assembly/GCF_000224145.1
+biocViews: AnnotationData, Genetics, BSgenome, Ciona_robusta
+Built: R 4.1.0; ; 2021-10-25 05:27:43 UTC; unix

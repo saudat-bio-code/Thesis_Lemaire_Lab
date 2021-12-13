@@ -1,0 +1,17 @@
+Package: BSgenome.Cintestinalis.KY
+Title: Ciona intestinalis HY
+Description: A BSgenome package for the Ciona intestinalis genome
+Version: 0.2
+Author: Yutaka Satou, Katsuhiko Mineta, Michio Ogasawara, Yasunori Sasakura, Eiichi Shoguchi, Keisuke Ueno, Lixy Yamada, Jun Matsumoto, Jessica Wasserscheid, Ken Dewar, Graham B Wiley, Simone L Macmil, Bruce A Roe, Robert W Zeller, Kenneth EM Hastings, Patrick Lemaire, Erika Lindquist, Toshinori Endo2, Kohji Hotta and Kazuo Inaba
+Maintainer: Keira Wiechecki <kaw504@nyu.edu>
+Depends: R (>= 3.5.0), BSgenome (>= 1.60.0)
+Imports: BSgenome
+Suggests: 
+License: GPL-2
+organism: Ciona intestinalis
+common_name: Vase tunicate
+genome: GCA_009617815.1
+provider: NCBI
+release_date: 2019
+source_url: https://www.ncbi.nlm.nih.gov/assembly/GCA_009617815.1
+biocViews: AnnotationData, Genetics, BSgenome, Ciona_intestinalis
