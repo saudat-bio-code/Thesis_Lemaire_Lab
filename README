@@ -17,4 +17,4 @@ public_key.rsa and public_key files are provided in the dependency/access folder
 After rsa-key configured it is important to load the repo using ssh not hhttp connection, this command works well
 git clone git@github.com:saudat-bio-code/Thesis_Lemaire_Lab.git
 #should work without password
-![Alt text](figures/intro.png)
+![Alt text](/figures/intro.png)
