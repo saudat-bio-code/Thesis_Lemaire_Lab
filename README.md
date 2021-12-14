@@ -2,9 +2,9 @@ This reposityory is organised in the following way:
 
 - Folder dependecy - This folder includes vital packages neccessery for analysis using ciona/crobu genomes
 - Folder scripts - subdirectories for analysis in prep negative sets, svm training/testing, ancestry reconstruction 
-- Folder data - includes every intermidiated files, such as peak files, svm results, radndom negative sets, etc
+- Folder data - includes every intermidiate file, such as peak files, svm results, radndom negative sets, etc
 - Folder figures - self explainotory, this folder is for plots
-- Folder ancestry - this folder is for ancestor genome reconstructions
+- Folder ancestry - this folder is for ancestor genome reconstructions specifically.
 
 
 GitHub changed access options recently from password to toyken/ deplyoed key options.
