@@ -1,0 +1,6 @@
+sampleSheet = read.csv("sample_Sheet.csv")
+dba= dba(sampleSheet = sampleSheet)
+print(dba) 
+olap.rate = dba.overlap(dba, mode = DBA_OLAP_RATE)
+plot(olap.rate, main = "overlap rate of HSC peaks") 
+k = plot(dba, main = "initial clustering of HSC peaks")
